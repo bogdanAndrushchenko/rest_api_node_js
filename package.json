@@ -1,0 +1,31 @@
+{
+  "name": "node_js_practice",
+  "version": "1.0.0",
+  "description": "first homework goit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanAndrushchenko/Node_JS_practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "basic_node"
+  ],
+  "author": "Bogdan Andrushchenko <bandrushchenko15@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanAndrushchenko/Node_JS_practice/issues"
+  },
+  "homepage": "https://github.com/bogdanAndrushchenko/Node_JS_practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
